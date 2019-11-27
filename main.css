@@ -5,6 +5,7 @@ body{
         background-repeat: repeat;
         background-attachment: fixed;
         font-family: Georgia, 'Times New Roman', Times, serif;
+        padding-bottom: 40px;
     }
 
     div{
